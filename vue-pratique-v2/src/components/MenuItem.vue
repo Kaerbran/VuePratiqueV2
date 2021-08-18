@@ -5,7 +5,7 @@ export default {
 	data() {
 		return {
 			onSale: false,
-			qty: this.quantity
+			//qty: this.quantity
 		}
 	},
 	computed: {
